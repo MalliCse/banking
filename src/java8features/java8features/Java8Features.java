@@ -111,6 +111,8 @@ public class Java8Features {
 		  listofstudetails.stream().filter(stuobj -> stuobj.getName().equals("Malli")).forEach(stuobj ->System.out.println(stuobj.getName()));
 
 		  System.out.println(listofstudetails.stream().findAny().get().getName());
+		
+		System.out.println("ok");
 
 	}
 
