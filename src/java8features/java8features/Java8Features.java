@@ -6,8 +6,6 @@ import java.util.*;
 
 import java8features.java8features.model.Student;
 
-
-
 public class Java8Features {
 
 	public static void main(String args[]) {
