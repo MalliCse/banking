@@ -13,6 +13,8 @@ public interface Jntuk {
 	static void collegeContact()
 	{
 		System.out.println("Jntuk Contact Details");
+
+
 	}
 
 }
