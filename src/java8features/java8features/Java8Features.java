@@ -114,7 +114,7 @@ public class Java8Features {
 		
 		System.out.println("ok");
 		
-			System.out.println("Second Commit");
+			
 
 	}
 
