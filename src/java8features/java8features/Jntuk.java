@@ -1,5 +1,8 @@
 package java8features.java8features;
 
+
+
+
 @FunctionalInterface
 public interface Jntuk {
 	
