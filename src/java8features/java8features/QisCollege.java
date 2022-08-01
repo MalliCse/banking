@@ -2,6 +2,9 @@ package java8features.java8features;
 
 import java.util.HashMap;
 
+
+
+
 public class QisCollege implements Jntuk{
 	
 	@Override
