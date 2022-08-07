@@ -25,10 +25,6 @@ public class Java8Features {
 		Student stu2 = new Student(2, "Vishnu");
 		Student stu3 = new Student(3, "Sri");
 		Student stu5 = new Student(1, "Malli");
-
-		// List
-
-		
 		  List<Student> listofstudetails = new ArrayList<Student>(); // Arraylist  Object Creation
 		 
 		  
