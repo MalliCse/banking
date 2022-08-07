@@ -35,14 +35,12 @@ public class Java8Features {
 		  listofstudetails.stream() .forEach(studetails ->
 		  System.out.println(studetails.getId() + "-" + studetails.getName()));
 		 
-		// Set Implementation Using Hashset
-
 		
 		  Set<Student> setofstudentdetails = new HashSet<Student>();
 		  
 		  Student stu4 = new Student(3, "Sri");
 		  
-		// Adding Student object to Student ArraList
+		
 		  
 		  Collections.addAll(setofstudentdetails, stu1, stu2, stu3, stu4); 
 		  
