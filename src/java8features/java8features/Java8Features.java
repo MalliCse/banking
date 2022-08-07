@@ -25,10 +25,6 @@ public class Java8Features {
 		Student stu2 = new Student(2, "Vishnu");
 		Student stu3 = new Student(3, "Sri");
 		Student stu5 = new Student(1, "Malli");
-
-		// List
-
-		
 		  List<Student> listofstudetails = new ArrayList<Student>(); // Arraylist  Object Creation
 		 
 		  
@@ -39,14 +35,12 @@ public class Java8Features {
 		  listofstudetails.stream() .forEach(studetails ->
 		  System.out.println(studetails.getId() + "-" + studetails.getName()));
 		 
-		// Set Implementation Using Hashset
-
 		
 		  Set<Student> setofstudentdetails = new HashSet<Student>();
 		  
 		  Student stu4 = new Student(3, "Sri");
 		  
-		// Adding Student object to Student ArraList
+		
 		  
 		  Collections.addAll(setofstudentdetails, stu1, stu2, stu3, stu4); 
 		  
